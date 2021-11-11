@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yudi0liu
+- 👋 Hi, I’m @yudi_liu
 - 👀 I’m interested in improving my data analysis skill here
 - 🌱 I’m currently learning how to do empirical analysis through stata and python
 - 💞️ I’m looking to collaborate on doing accounting research together
